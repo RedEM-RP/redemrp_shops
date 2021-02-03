@@ -196,9 +196,9 @@ function EndCam()
     DisplayHud(true)
     DisplayRadar(true)
     DestroyAllCams(true)
-	DoScreenFadeIn(1500)
+    DoScreenFadeIn(1500)
 end
- DoScreenFadeIn(1500)
+
 
 RegisterNetEvent('redemrp_shops:GetItems')
 AddEventHandler('redemrp_shops:GetItems', function(ShopItems)
