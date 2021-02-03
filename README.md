@@ -7,9 +7,11 @@ A shops system for RedEM:RP
 
 [pNotify](https://github.com/Nick78111/pNotify)
 
+[redemrp_menu_base](https://github.com/RedEM-RP/redemrp_menu_base)
+
 ## 2. Installation
 
-Add ```ensure redemrp_shop``` in server.cfg after ```ensure redemrp_inventory```
+Add ```ensure redemrp_shop``` in server.cfg after ```ensure redemrp_inventory``` and ```ensure redemrp_menu_base```
 
 ## 3. Configuration
 
