@@ -1,4 +1,4 @@
-# redemrp_shop
+# redemrp_shops
 A shops system for RedEM:RP
 
 ## 1. Requirements
@@ -11,7 +11,7 @@ A shops system for RedEM:RP
 
 ## 2. Installation
 
-Add ```ensure redemrp_shop``` in server.cfg after ```ensure redemrp_inventory``` and ```ensure redemrp_menu_base```
+Add ```ensure redemrp_shops``` in server.cfg after ```ensure redemrp_inventory``` and ```ensure redemrp_menu_base```
 
 ## 3. Configuration
 
